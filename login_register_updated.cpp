@@ -1,3 +1,5 @@
+//this is my code. you can use this if you need this code. //6/01/2025 //tamim@2000
+
 #include<iostream>
 #include<fstream>
 #include<chrono>
